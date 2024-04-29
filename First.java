@@ -7,6 +7,7 @@ System.out.println("welcome");
 System.out.println("to");
 System.out.println("my");
 System.out.println("notes");
+System.out.println("&");
 
 
 }
