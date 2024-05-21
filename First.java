@@ -29,6 +29,7 @@ System.out.println("f");
 System.out.println("u");
 System.out.println("l");
 System.out.println("l");
+System.out.println("s");
 
 
 
