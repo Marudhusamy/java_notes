@@ -32,6 +32,7 @@ System.out.println("l");
 System.out.println("s");
 System.out.println("t");
 System.out.println("o");
+System.out.println("c");
 
 
 
